@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83971A1121AB36FE00F5C56C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 83971A1021AB36FE00F5C56C /* Default-568h@2x.png */; };
 		839BFB8D218B92860065554A /* BirthdaysTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839BFB8C218B92860065554A /* BirthdaysTableViewController.swift */; };
 		83AE00582188BFD600343077 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AE00572188BFD600343077 /* AppDelegate.swift */; };
 		83AE005A2188BFD600343077 /* AddBirthdayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AE00592188BFD600343077 /* AddBirthdayViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		83971A1021AB36FE00F5C56C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		839BFB8C218B92860065554A /* BirthdaysTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdaysTableViewController.swift; sourceTree = "<group>"; };
 		83AE00542188BFD600343077 /* BirthdayTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BirthdayTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83AE00572188BFD600343077 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		83AE004B2188BFD600343077 = {
 			isa = PBXGroup;
 			children = (
+				83971A1021AB36FE00F5C56C /* Default-568h@2x.png */,
 				83AE00562188BFD600343077 /* BirthdayTracker */,
 				83AE00552188BFD600343077 /* Products */,
 			);
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83AE00652188BFDA00343077 /* LaunchScreen.storyboard in Resources */,
+				83971A1121AB36FE00F5C56C /* Default-568h@2x.png in Resources */,
 				83AE00622188BFDA00343077 /* Assets.xcassets in Resources */,
 				83AE005D2188BFD600343077 /* Main.storyboard in Resources */,
 			);
